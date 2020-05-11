@@ -1,1 +1,19 @@
-theme: jekyll-theme-minimal
+# Site wide configuration
+
+title: Gabriel Sixel's Personal Page
+locale: pt_BR
+logo: # filename of a logo image that has been placed into your images directory
+
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Gabriel Sixel
+  avatar: Gabriel.jpg
+  bio: "Eu sou o Gerente de Programa de Plataforma Digital para o Time de Operações Técnicas (TechOps) da Thoughtworks sendo responsável pelo programa de trabalho dedicado a construir e executar uma estratégia para facilitar a inovação, redução do time to market' e proporcionar vantagem competitiva.
+  Tenho 7 anos de experiência em desenvolvimento de software e consultoria tendo assumido papeis de análista de négocio e gerente de produto (PO) especializado em experiência para desenvolvedores.
+
+  I am the Program Manager for Thoughtworks Technical Operations (TechOps) Digital Platform responsible for the program of work dedicated to build and execute on a strategy to facilitate innovation, reduce time to market, and deliver unique competitive advantage. With more then 7 years of "
+  email: gabriel.sixel@gmail.com
+  # Do not include the @ symbol in your Twitter username
+  twitter: sixel
+  linkedin: gabriel-sixel-11595921
+  github: gabrielsixel
