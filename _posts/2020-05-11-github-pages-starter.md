@@ -1,4 +1,3 @@
-want this .yaml-like text near the top.
 
 ---
 layout: post
